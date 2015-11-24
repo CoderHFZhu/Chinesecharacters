@@ -1,0 +1,2 @@
+# Chinesecharacters
+有一些网络获取的数据里面的汉字在Xcode控制太以utf8编码显示，使用这个Category就可以输出汉字
